@@ -50,7 +50,7 @@ calculaMediaValida():
 
 Ordena as notas, exclui a maior e a menor, e calcula a média das restantes.
 
-*Métodos auxiliares (obtem)**:
+*Métodos auxiliares (obtem)*:
 
 Retornam os atributos ou cálculos do atleta:
 
